@@ -56,6 +56,6 @@ public class Friend {
 	}	
 	
 	public void showInfo() {
-		System.out.printf("[이름: %s, 연락처: %s, 이메일: %s, 키: %f, 몸무게: %f\n", name, phone, mail, height, weight);
+		System.out.printf("[이름: %s, 연락처: %s, 이메일: %s, 키: %f, 몸무게: %f]\n", name, phone, mail, height, weight);
 	}
 }
